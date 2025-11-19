@@ -1,0 +1,32 @@
+
+
+img{
+    height: 250px;
+    width:570px;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+.first-title{
+    text-align: center;
+}
+.first-para{
+
+}
+#my-id{
+overflow:auto; 
+border: 2px solid orange;
+background-color: rgb(194, 192, 192);
+border-image: url("border-image.png") 11 11 11 11 round ;
+border-width: 10px;
+border-image-repeat:round;
+border-image-width: 10px;
+width:50%;
+height: 500px;
+}
+.product-price{
+padding-bottom: 20px;
+padding-top: 30px;
+    font-weight: bold;
+text-align: center;
+}
+
